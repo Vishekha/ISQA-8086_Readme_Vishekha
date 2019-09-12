@@ -18,16 +18,17 @@ This repository is created for the course Data To Decision assignments
 > _Data Exploration As Research Cycle_
 ![Data Exploration as Research Cycle](https://www.interana.com/hubfs/Imported_Blog_Media/data-explore-cycle-4.png)
 
->Upcoming Assignments
+
 
 ### Links to Assignments
 * ![Data Entry Analysis](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
 
 * ![Data Exploration](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
+>Upcoming Assignments
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md]https://github.com/Vishekha/ISQA-8086_Data_To_Decision/blob/master/LICENSE) file for details 
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Vishekha/ISQA-8086_Data_To_Decision/blob/master/LICENSE) file for details 
 > The file contains License information for the repository.
 
 ### Author
