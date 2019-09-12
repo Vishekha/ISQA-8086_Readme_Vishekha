@@ -21,7 +21,7 @@ This repository is created for the course Data To Decision assignments
 >Upcoming Assignments
 
 ### Links to Assignments
-* !.[Data Exploration](https://github.com/Vishekha/ISQA-8086_Readme_Vishekha/blob/master/LICENSE) 
+* !.[Data Entry Analysis](https://github.com/Vishekha/ISQA-8086_Readme_Vishekha/blob/master/LICENSE) 
 >Link for the Data Entry Analysis Assignement
 * ![Data Exploration](https://github.com/Vishekha/ISQA-8086_Readme_Vishekha/blob/master/LICENSE) 
 >Link for the Data Exploration Assignemnt
