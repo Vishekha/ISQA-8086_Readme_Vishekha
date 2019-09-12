@@ -21,13 +21,13 @@ _Readme_ document must include:
 
 Image Representing Data Entry Analysis & Data Exploration respectively
 
-_Data Entry Anaylsis_
+* _Data Entry Anaylsis_
 ![Data Entry](https://www.apoyocorp.com/assets/img/Data-Entry-Services.jpg) 
 
 
  
  
-_Data Exploration As Research Cycle_
+* _Data Exploration As Research Cycle_
 ![Data Exploration as Research Cycle](https://www.interana.com/hubfs/Imported_Blog_Media/data-explore-cycle-4.png)
 
 ## License
