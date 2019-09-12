@@ -27,4 +27,4 @@ ___Image Representing Data Entry Analysis & Data Exploration respectively___
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Vishekha/ISQA-8086_Readme_Vishekha/blob/master/LICENSE) file for details 
-> This file consists of the License information for this repository
+> The file consists of License information for the repository
