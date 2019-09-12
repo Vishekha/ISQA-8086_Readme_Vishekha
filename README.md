@@ -21,7 +21,7 @@ _Readme_ document must include:
 
 ___Image Representing Data Entry Analysis & Data Exploration respectively___
 
-->**_Data Entry Anaylsis_**<-
+->Data Entry Anaylsis<-
 ![Data Entry](https://www.apoyocorp.com/assets/img/Data-Entry-Services.jpg) 
 
 
