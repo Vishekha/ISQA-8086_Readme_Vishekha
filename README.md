@@ -2,11 +2,11 @@
 # ISQA-8086_Data_To_Decision
 This repository is created for the assignments of the course ISQA8086-001:Special Topic in ISQA -Data To Decision
 
-* Assignment Introduction
-* Link to Assignments
+* Assignment Topic Description
+* Assignment Link
 * License Information
 
-### Assignment Introduction
+### Assignment Topic Description
 
 * **Data Entry Analysis**, analyze and interpret data, using a variety of statistical techniques,concentrating on the accuracy of data.
 
@@ -20,7 +20,7 @@ This repository is created for the assignments of the course ISQA8086-001:Specia
 
 
 
-### Links to Assignments
+### Assignment Link
 * [Data Entry Analysis](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
 > Structuring data files for usuability
 * [Data Exploration](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
