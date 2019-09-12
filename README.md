@@ -1,6 +1,6 @@
 ![Data To Decisiony](https://machinepulse.files.wordpress.com/2014/11/predictive-analytics-in-renewable-technologies-picture.jpg) 
 # ISQA-8086_Data_To_Decision
-This repository is created for the course Data To Decision assignments
+This repository is created for the assignments of the course ISQA8086-001:Special Topic in ISQA -Data To Decision
 ```
 * Assignment Introduction
 * Links to Assignment
@@ -22,8 +22,9 @@ This repository is created for the course Data To Decision assignments
 
 ### Links to Assignments
 * ![Data Entry Analysis](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
-
+structuring data fiels for usuability
 * ![Data Exploration](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
+Intial Exploration of Project data using R
 >Upcoming Assignments
 
 ### License
