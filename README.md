@@ -1,3 +1,4 @@
+![Data To Decisiony](https://machinepulse.files.wordpress.com/2014/11/predictive-analytics-in-renewable-technologies-picture.jpg) 
 # ISQA-8086_Readme_Vishekha
 
 ### Prerequisites
