@@ -2,9 +2,9 @@
 # ISQA-8086_Data_To_Decision
 This repository is created for the assignments of the course ISQA8086-001:Special Topic in ISQA -Data To Decision
 ```
-*Assignment Introduction
-*Link to Assignments
-*License Information
+* Assignment Introduction
+* Link to Assignments
+* License Information
 ```
 ### Assignment Introduction
 
