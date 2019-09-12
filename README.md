@@ -21,9 +21,9 @@ This repository is created for the course Data To Decision assignments
 >Upcoming Assignments
 
 ### Links to Assignments
-* !.[Data Entry Analysis.]
+* !.[Data Exploration]
 >Link for the Data Entry Analysis Assignement
-* !.[Data Exploration.]
+* ![Data Exploration]
 >Link for the Data Exploration Assignemnt
 ### License
 
