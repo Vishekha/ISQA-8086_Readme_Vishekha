@@ -10,7 +10,7 @@ This repository is created for the course Data To Decision assignments
 
 * **Data Entry Analysis**, analyze and interpret data, using a variety of statistical techniques,concentrating on the accuracy of data.
 
-* _Data Entry Anaylsis_
+-> _Data Entry Anaylsis_->
 ![Data Entry](https://www.apoyocorp.com/assets/img/Data-Entry-Services.jpg) 
 
 * **Data Exploration**, it is an approach quite similar to intial data analysis, where a data analyst uses visual exploration to understand what is in a dataset and the characteristics of the data, rather than through traditional data management systems.
