@@ -15,15 +15,15 @@ This repository is created for the assignments of the course ISQA8086-001:Specia
 
 * **Data Exploration**, it is an approach quite similar to intial data analysis, where a data analyst uses visual exploration to understand what is in a dataset and the characteristics of the data, rather than through traditional data management systems.
 
-> !_Data Exploration As Research Cycle_
-[Data Exploration as Research Cycle](https://www.interana.com/hubfs/Imported_Blog_Media/data-explore-cycle-4.png)
+> _Data Exploration As Research Cycle_
+![Data Exploration as Research Cycle](https://www.interana.com/hubfs/Imported_Blog_Media/data-explore-cycle-4.png)
 
 
 
 ### Links to Assignments
-* ![Data Entry Analysis](https://github.com) 
+* [Data Entry Analysis](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
 structuring data fiels for usuability
-* ![Data Exploration](https://github.com) 
+* [Data Exploration](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
 Intial Exploration of Project data using R
 >Upcoming Assignments
 
