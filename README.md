@@ -1,12 +1,12 @@
 ![Data To Decisiony](https://machinepulse.files.wordpress.com/2014/11/predictive-analytics-in-renewable-technologies-picture.jpg) 
 # ISQA-8086_Data_To_Decision
+This repository is created for the course Data To Decision assignments
 
-```
-* License information for the repository
-* Placeholder text for linking two other individual assignments:- Data Entry Analysis and Data Exploration
-* Project Images
-```
-### Project Assignment
+* Assignment Introduction
+* Links to Assignment
+* License Information
+
+### Assignment Introduction
 
 * **Data Entry Analysis**, analyze and interpret data, using a variety of statistical techniques,concentrating on the accuracy of data.
 
@@ -29,7 +29,11 @@ Image Representing Data Entry Analysis & Data Exploration respectively
 * _Data Exploration As Research Cycle_
 ![Data Exploration as Research Cycle](https://www.interana.com/hubfs/Imported_Blog_Media/data-explore-cycle-4.png)
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Vishekha/ISQA-8086_Readme_Vishekha/blob/master/LICENSE) file for details 
 > The file contains License information for the repository.
+
+### Author
+
+Vishekha Tamrakar
