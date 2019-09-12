@@ -20,7 +20,7 @@ _Readme_ document must include:
 ### Project Images
 
 ___Image Representing Data Entry Analysis & Data Exploration respectively___
-![Data Entry](https://www.apoyocorp.com/assets/img/Data-Entry-Services.jpg)>Data Entry
+![Data Entry](https://www.apoyocorp.com/assets/img/Data-Entry-Services.jpg) >Data Entry Analysis
 
 ![Data Exploration as Research Cycle](https://www.interana.com/hubfs/Imported_Blog_Media/data-explore-cycle-4.png)
 
