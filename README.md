@@ -6,7 +6,7 @@ _Readme_ document must include:
 
 ```
 * License information for the repository
-* Placeholder text for linking two individual assignments namely _Data Entry Analysis_ and _Data Exploration_
+* Placeholder text for linking two individual assignments namely data Entry Analysis and Data Exploration
 * Project Images
 ```
 ### Project Assignment
@@ -20,8 +20,10 @@ _Readme_ document must include:
 ### Project Images
 
 ___Image Representing Data Entry Analysis & Data Exploration respectively___
+
 **_Data Entry Anaylsis_**
 ![Data Entry](https://www.apoyocorp.com/assets/img/Data-Entry-Services.jpg) 
+
 
 **_Data Exploration_**
 ![Data Exploration as Research Cycle](https://www.interana.com/hubfs/Imported_Blog_Media/data-explore-cycle-4.png)
