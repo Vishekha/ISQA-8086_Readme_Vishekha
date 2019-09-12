@@ -1,10 +1,6 @@
 ![Data To Decisiony](https://machinepulse.files.wordpress.com/2014/11/predictive-analytics-in-renewable-technologies-picture.jpg) 
 # ISQA-8086_Readme_Vishekha
 
-### Prerequisites
-
-_Readme_ document must include:
-
 ```
 * License information for the repository
 * Placeholder text for linking two other individual assignments:- Data Entry Analysis and Data Exploration
