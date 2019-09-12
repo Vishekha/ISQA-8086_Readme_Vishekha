@@ -19,7 +19,7 @@ _Readme_ document must include:
 
 ### Project Images
 
-___Image Representing Data Entry Analysis & Data Exploration respectively___
+Image Representing Data Entry Analysis & Data Exploration respectively
 
 _Data Entry Anaylsis_
 ![Data Entry](https://www.apoyocorp.com/assets/img/Data-Entry-Services.jpg) 
