@@ -21,13 +21,13 @@ This repository is created for the course Data To Decision assignments
 >Upcoming Assignments
 
 ### Links to Assignments
-* ![Data Entry Analysis](https://github.com/Vishekha/ISQA-8086_Readme_Vishekha/blob/master/LICENSE) 
+* ![Data Entry Analysis](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
 
-* ![Data Exploration](https://github.com/Vishekha/ISQA-8086_Readme_Vishekha/blob/master/LICENSE) 
+* ![Data Exploration](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Vishekha/ISQA-8086_Readme_Vishekha/blob/master/LICENSE) file for details 
+This project is licensed under the MIT License - see the [LICENSE.md]https://github.com/Vishekha/ISQA-8086_Data_To_Decision/blob/master/LICENSE) file for details 
 > The file contains License information for the repository.
 
 ### Author
