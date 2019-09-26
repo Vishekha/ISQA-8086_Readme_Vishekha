@@ -37,5 +37,5 @@
 
 
 
-| Date| Time(@4-hours format)| Temperature (unit)| Depth (unit)  	| Colony Size(Diameter) 	| Cuni 	| Chippo	| Chlorophyll	|
+| Date| Time(24-hours format)| Temperature (unit)| Depth (unit)  	| Colony Size (unit) 	| Cuni 	| Chippo	| Chlorophyll	|
 |------	|----------------	|:-----	|:-------	|:----------------------	|:------------	|:------------------	|:-------------	|
