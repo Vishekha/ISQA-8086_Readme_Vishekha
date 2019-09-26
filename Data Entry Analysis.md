@@ -35,5 +35,5 @@
 
 6. A more organized data with empty cells having value as *Not Available or NULL* rather than just empty.
 
-| Date (MM-DD-YY)	| Time(24-hours format) 	| Depth of Lake (Unit) 	| Temperature(Unit)	| Cuni||Chippo| |chlorophyll|
-|------	|----------------	|:-----	|:-------	|:----------------------	|:------------	|:------------------	|:-------------	|
+| Date (MM-DD-YY)	| Time(24-hours format) 	| Depth of Lake (Unit) 	| Temperature(Unit)	| Cuni|Chippo| Colony size |chlorophyll|
+
