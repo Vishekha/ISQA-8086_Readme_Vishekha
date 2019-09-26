@@ -6,19 +6,19 @@
 
 3. Looking at all the three spreadsheets, there are many missing rows with no data values. This leads to incomplete data which is required to be fixed.
 
-4. Some columns in the all the three spreadsheet contains decimal values. The number of digits after the decimal shall be same to make the data look organized and neat
+4. Some columns in the all the three spreadsheet contains decimal values. The number of digits after the decimal shall be same to make the data look organized and neat.
 
 5. The plots in the file 2 and file 3 gives no information regarding the X axis and Y axis. The plots are missing some of the required information.
 
-6. Some of the data values are highlighted as after thoroughly going through the data set no inference could be drawn. 
+6. Some of the data values are highlighted. After thoroughly going through the highlighted data values no inference could be drawn. 
 
-7. In file 3 spreadsheet, it is mentioned that, *'max depth is 72m'*. However, the max depth as per the data values under the depth column is 50, considering data in all the three files. Whether this 72m max depth was set by any individual or it is one of the reading, this requires some additional information for clarification.
+7. In file 3 spreadsheet, it is mentioned that, *'max depth is 72m'*. However, the max depth as per the data values under the depth column is 50, considering data in all the three files. Whether this 72m max depth was set by any individual or it is one of the data recorded, this requires some additional information for further clarification.
 
 8. In file 3,it is mentioned that, *'Max Secchi 14m'*. It is difficult to understand the reason behind this piece of information.
 
-9. in file 3, page 2, immediately after table there is data 7th and 9th, which is difficult to understand the relevance of those two values with the available data set.
+9. In file 3, page 2, immediately after table there is data 7th and 9th, which is difficult to understand the relevance of those two values with the available data set.
 
-10. Column names are changing and also different in all the three files.
+10. Column names are changing and different in all the three files.
 
 
 ### Suggestion for the New System
