@@ -33,7 +33,7 @@
 
 5.The plots should represent information regarding X axis and Y axis. As, other individuals should know what value is plotted against other value. A plot should have all the necessary information.
 
-6. A more organized data with empty cells having value as *Not Available or NULL* rather than just empty.
+6.A more organized data with empty cells having value as *Not Available or NULL* rather than just empty.
 
 
 
