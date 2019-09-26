@@ -36,5 +36,6 @@
 6. A more organized data with empty cells having value as *Not Available or NULL* rather than just empty.
 
 
+
 | Date| Time(@4-hours format)| Temperature (unit)| Depth (unit)  	| Colony Size(Diameter) 	| Cuni 	| Chippo	| Chlorophyll	|
 |------	|----------------	|:-----	|:-------	|:----------------------	|:------------	|:------------------	|:-------------	|
