@@ -1,5 +1,5 @@
 ### Issues Identified with the current Data
-1.The very first issue with the data provided in all the three spreadsheet is that- there is no column capturing data related to *time*. As per the backgound description *'aquatic scientists collect plankton samples during both day (e.g. noon) and night (e.g. 2 am) because plankton change their distributions from day to night, and not all species alter their distributions in the same way'*.
+1.The very first issue with the data provided in all the three spreadsheet is that- there is no column capturing data related to *time*. As per the backgound description *'aquatic scientists collect plankton samples during both day (e.g. noon) and night (e.g. 2 am) because plankton change their distributions from day to night, and not all species alter their distributions in the same way'* and thereby time related data is required into the spreadsheets.
 
 2.The unit for temperature is missing from all the three spreasheets.Different individuals working on the data set could consider different units for the temperature like Kelvin, Celsius or Fahrenheit.
 
@@ -9,9 +9,9 @@
 
 5.The plots in the file 2 and file 3 gives no information regarding the X axis and Y axis. The plots are missing some of the required information.
 
-6.
+6.Some of the data values are highlighted as after thoroughly going through the data set no inference could be drawn. 
 
-7.
+7.In file 3 spreadsheet it is mentioned that max depth is 72m. However, the max depth as per the data values under the depth column is 50, considering data in all the three files. Whether this 72m max depth was set by any individual or it is one of the reading, this requires some additional information for clarification.
 
 8.
 
