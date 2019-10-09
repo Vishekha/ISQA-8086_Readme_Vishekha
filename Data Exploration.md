@@ -1,4 +1,4 @@
-## Homestead National Monument water quality monitoring
+## Homestead National Monument Water Quality Monitoring
 
 
 ### Scatter Plot of Two Diffrent Variables
