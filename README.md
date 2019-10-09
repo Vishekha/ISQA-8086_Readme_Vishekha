@@ -23,7 +23,7 @@ This repository is created for the assignments of the course ISQA8086-001:Specia
 ### Assignment Links
 * [Data Entry Analysis](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Entry%20Analysis.md) 
 > Structuring data files for usuability
-* [Data Exploration](https://github.com/Vishekha/ISQA-8086_Data_To_Decision) 
+* [Data Exploration](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration.md) 
 >Intial Exploration of Project data using R Tool
 
 
