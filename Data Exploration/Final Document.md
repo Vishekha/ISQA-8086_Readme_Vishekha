@@ -10,7 +10,7 @@
 #### Part 2
 ![ScatterPlot](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/Plots/Scatter%20Plot%20of%20Two%20Diffrent%20Variables-2.png)
 
->ggplot(DE, aes(Year, Nitrates))+geom_smooth(se = FALSE) +labs(title = "Nitrate Content in Water over the Year from 2002 to 2012")+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))<
+>ggplot(DE, aes(Year, Nitrates))+geom_smooth(se = FALSE) +labs(title = "Nitrate Content in Water over the Year from 2002 to 2012")+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))
 
 ### Scatter Plot of Three Different Variables
 ![ScatterPlot](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/Plots/Scatter%20Plot%20of%20Three%20Different%20Variables.png)
