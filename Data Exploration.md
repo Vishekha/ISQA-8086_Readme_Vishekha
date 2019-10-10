@@ -7,16 +7,19 @@
 
 >ggplot(DE, aes(Year, Nitrates))+geom_smooth(se = FALSE) +labs(title = "Nitrate Content in Water over the Year from 2002 to 2012")+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))<
 
-The graph above shows the level of Nitrate content found in water over the year 2002 to 2012
+
 
 
 ### Scatter Plot of Three Different Variables
+>ggplot(DE, aes(x=Year, y=pH, color=Month)) +geom_smooth(method=lm, se=FALSE, fullrange=TRUE)+geom_point()+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))
 
 
 ### Scatter Plot of Two Variables with a Trend Line
+>ggplot(DE, aes(Year, pH)) +geom_smooth(se = FALSE) +labs(title = "pH Level of Water over the Year from 2002 to 2012")+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))+geom_smooth(method=lm,se=FALSE,color="red")
 
 
 ### Faceted Plot of Two Different Variables
+>ggplot(data = DE) + geom_point(mapping = aes(x =Year, y = pH)) + facet_wrap(~ Month, nrow = 2)+ scale_x_continuous(breaks = seq(2002, 2012, by = 10))+scale_y_continuous(breaks=seq(0,25))
 
 
 ### Bar Chart
