@@ -39,5 +39,5 @@
 ### Bar Chart
 * The below barchart represents the observations made for the pH level of water and the content of Nitrates found in water over from the year 2002 till 2012.From the plot below, we assume that there has been a major fluctuation in the contents of Nitrates found in water in the year 2007 to 2010.
 
-![BarChart](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/barchart.png) 
+![BarChart](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/Plots/barchart.png) 
 >ggplot(data = DE, aes(x =Year , y = pH, fill = Nitrates)) +geom_col(position = position_dodge()) 
