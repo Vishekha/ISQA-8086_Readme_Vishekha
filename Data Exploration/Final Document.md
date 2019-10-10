@@ -2,12 +2,12 @@
 * We have data about Water Quality by Homestead National Monument. We recieved many diffrent spreadsheets from our client which contains the observation of impurities found in Water in the form of Nitrates, sulfates etc, and the associated pH level of water from year 2002 to 2012.The below are some graphical presentation of the observations:-
 
 ### Scatter Plot of Two Diffrent Variables
-* Part 1
+## Part 1
 ![ScatterPlot](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/Plots/Scatter%20Plot%20of%20Two%20Diffrent%20Variables-1.png)
 
 >ggplot(DE, aes(Year, pH)) +geom_smooth(se = FALSE) +labs(title = "pH Level of Water over the Year from 2002 to 2012")+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))
 
-* Part 2
+## Part 2
 ![ScatterPlot](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/Plots/Scatter%20Plot%20of%20Two%20Diffrent%20Variables-2.png)
 
 >ggplot(DE, aes(Year, Nitrates))+geom_smooth(se = FALSE) +labs(title = "Nitrate Content in Water over the Year from 2002 to 2012")+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))<
