@@ -3,9 +3,7 @@
 
 ### Scatter Plot of Two Diffrent Variables
 > * ggplot(DE, aes(Year, pH)) +geom_smooth(se = FALSE) +labs(title = "pH Level of Water over the Year from 2002 to 2012")+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))
-
 The graph above shows the pH level of water over the year 2002 to 2012
-
 * ggplot(DE, aes(Year, Nitrates))+geom_smooth(se = FALSE) +labs(title = "Nitrate Content in Water over the Year from 2002 to 2012")+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))
 
 The graph above shows the level of Nitrate content found in water over the year 2002 to 2012
