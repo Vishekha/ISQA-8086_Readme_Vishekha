@@ -23,3 +23,5 @@
 
 
 ### Bar Chart
+>ggplot(data = DE, aes(x =Year , y = pH, fill = Nitrates)) +geom_col(position = position_dodge()) 
+
