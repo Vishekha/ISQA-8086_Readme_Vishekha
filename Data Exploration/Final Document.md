@@ -11,6 +11,7 @@
 
 
 ### Scatter Plot of Three Different Variables
+https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/Scatter%20Plot%20of%20Three%20Different%20Variables.pdf
 >ggplot(DE, aes(x=Year, y=pH, color=Month)) +geom_smooth(method=lm, se=FALSE, fullrange=TRUE)+geom_point()+ scale_x_continuous(breaks = seq(2002, 2012, by = 1))
 
 
