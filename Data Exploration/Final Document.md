@@ -24,5 +24,5 @@ https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Ex
 
 
 ### Bar Chart
-(https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/barchart.png) 
+[barchart](https://github.com/vishekha1223/ISQA-8086_Data_To_Decision/blob/master/Data%20Exploration/barchart.png) 
 >ggplot(data = DE, aes(x =Year , y = pH, fill = Nitrates)) +geom_col(position = position_dodge()) 
