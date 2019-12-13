@@ -7,7 +7,9 @@
 ### 2. How well did your initial expectations compare to the actual experience?
 ### 3. What would I would like to keep or change if this project is repeated in the future -- any ideas for improvements?
 
-## Peer Reveiw for Team Memeber
+## Peer Review for Team Member
+* I was part of Data Wizard Team and it has been a roller coaster ride for me working with the team. Indeed, this roller coaster ride was challenging and ended in a good note with all the deliverables finished on time as planned and expected. The following is the feedback I would like to share regrading individual team members and the amount of work and efforts each has contributed for the Team  project work:-
+
 * Vincent - A+
 >I
 
