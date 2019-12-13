@@ -7,13 +7,13 @@
 ### 2. How well did your initial expectations compare to the actual experience?
 ### 3. What would I would like to keep or change if this project is repeated in the future -- any ideas for improvements?
 
-### Peer Reveiw for Team Memeber
+## Peer Reveiw for Team Memeber
 * Vincent - A+
->>I
+>I
 
 * Malik - B+
->>
+>
 
 * Nishi - A+
->>
+>
 
