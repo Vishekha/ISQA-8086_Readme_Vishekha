@@ -15,16 +15,3 @@
 The entire syllabus and structure of the project is very apt, and I had a very good experience enrolling this course. The hands-on experience in class for R scripts was the cheery on the cake, as I never had chance in other related subjects to practice R code that patiently like I did in this course.
 * Thank you, Professor, for all the efforts you have made to set the best syllabus for the course and for all the learnings. All this will definitely help me the most with my future work endeavors.
 
-## Peer Review for Team Member
-* I was part of Data Wizard Team and it has been a roller coaster ride for me working with the team. Indeed, this roller coaster ride was challenging and ended in a good note with all the deliverables finished on time as planned and expected. The following is the feedback I would like to share regrading individual team members and the amount of work and efforts each has contributed for the Team project work: -
-
-* Vincent - A+
-> He made sincere efforts to the project work. Initially, he was very adamant about things and posed problems for members by taking updates twice or thrice a day even when the deliverable date was not near. He never submitted his part on time and used to wait when others submit their part so that he can take inputs from our work.
-But we did sort the issues we had mid-way and things went smooth after that.
-
-* Malik - B+
->He made very less contribution to the project work. He could not participate in R script task due to some reason but should have participated in R plots and other tasks. He did not care for any team project’s deliverable. For the final Git package the only thing we asked him to do is to create Project Summary Report, but he could not deliver that too. He never asked us for help and said he is well on track with the Report work. On the day of submission, he turned in incomplete report and said this is the best he could do.
-Last moment in about half an hour Vincent and I had to create the Summary Report again.
-
-* Nishi - A+
-> She made sincere efforts to the project work, did her work on time.
